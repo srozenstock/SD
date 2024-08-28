@@ -17,7 +17,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/car_sales_dashboard.git
+git clone https://github.com/yourusername/SD.git
 cd car_sales_dashboard
 Set Up Environment:
 
